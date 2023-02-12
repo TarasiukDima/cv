@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://tarasiukdima.github.io/cv/static/css/main.6e2c1d70.css",
-    "main.js": "https://tarasiukdima.github.io/cv/static/js/main.df61bbde.js",
+    "main.js": "https://tarasiukdima.github.io/cv/static/js/main.01959ecf.js",
     "static/media/RobotoMedium.otf": "https://tarasiukdima.github.io/cv/static/media/RobotoMedium.82995ea831be4f6dd136.otf",
     "static/media/RobotoBold.otf": "https://tarasiukdima.github.io/cv/static/media/RobotoBold.2f13a1e0ae216db4fe0e.otf",
     "static/media/RobotoRegular.otf": "https://tarasiukdima.github.io/cv/static/media/RobotoRegular.1fe59092367411c4f5ac.otf",
@@ -22,10 +22,10 @@
     "static/media/bg.png": "https://tarasiukdima.github.io/cv/static/media/bg.8166a767dbb2b73c05d3.png",
     "index.html": "https://tarasiukdima.github.io/cv/index.html",
     "main.6e2c1d70.css.map": "https://tarasiukdima.github.io/cv/static/css/main.6e2c1d70.css.map",
-    "main.df61bbde.js.map": "https://tarasiukdima.github.io/cv/static/js/main.df61bbde.js.map"
+    "main.01959ecf.js.map": "https://tarasiukdima.github.io/cv/static/js/main.01959ecf.js.map"
   },
   "entrypoints": [
     "static/css/main.6e2c1d70.css",
-    "static/js/main.df61bbde.js"
+    "static/js/main.01959ecf.js"
   ]
 }
