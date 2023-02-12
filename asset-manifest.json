@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "https://tarasiukdima.github.io/cv/static/css/main.81f04733.css",
+    "main.js": "https://tarasiukdima.github.io/cv/static/js/main.b43ab542.js",
+    "static/media/RobotoMedium.otf": "https://tarasiukdima.github.io/cv/static/media/RobotoMedium.82995ea831be4f6dd136.otf",
+    "static/media/RobotoBold.otf": "https://tarasiukdima.github.io/cv/static/media/RobotoBold.2f13a1e0ae216db4fe0e.otf",
+    "static/media/RobotoRegular.otf": "https://tarasiukdima.github.io/cv/static/media/RobotoRegular.1fe59092367411c4f5ac.otf",
+    "static/media/RobotoBold.ttf": "https://tarasiukdima.github.io/cv/static/media/RobotoBold.92e332970143ec7f74cc.ttf",
+    "static/media/RobotoMedium.ttf": "https://tarasiukdima.github.io/cv/static/media/RobotoMedium.13a29228654d5c5ec9c4.ttf",
+    "static/media/RobotoRegular.ttf": "https://tarasiukdima.github.io/cv/static/media/RobotoRegular.03523cf578d69fa92322.ttf",
+    "static/media/PressStart2P-Regular.ttf": "https://tarasiukdima.github.io/cv/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "static/media/RobotoMedium.woff": "https://tarasiukdima.github.io/cv/static/media/RobotoMedium.1d2f9f005d8523d9f063.woff",
+    "static/media/RobotoBold.woff": "https://tarasiukdima.github.io/cv/static/media/RobotoBold.959efc3c8a6e3811896a.woff",
+    "static/media/RobotoRegular.woff": "https://tarasiukdima.github.io/cv/static/media/RobotoRegular.f6ce611a1739387971ea.woff",
+    "static/media/RobotoMedium.woff2": "https://tarasiukdima.github.io/cv/static/media/RobotoMedium.952964cbc0a5eef77deb.woff2",
+    "static/media/RobotoBold.woff2": "https://tarasiukdima.github.io/cv/static/media/RobotoBold.04459b0b9549c32970cc.woff2",
+    "static/media/RobotoRegular.woff2": "https://tarasiukdima.github.io/cv/static/media/RobotoRegular.95e52745bb91c0f680fa.woff2",
+    "static/media/PressStart2P-Regular.otf": "https://tarasiukdima.github.io/cv/static/media/PressStart2P-Regular.ac7bbec969f0f40df6e6.otf",
+    "static/media/PressStart2P-Regular.woff": "https://tarasiukdima.github.io/cv/static/media/PressStart2P-Regular.d5bee27b5a4a94b8ce85.woff",
+    "static/media/PressStart2P-Regular.woff2": "https://tarasiukdima.github.io/cv/static/media/PressStart2P-Regular.411d2134ede17f4bc699.woff2",
+    "static/media/my_photo.jpg": "https://tarasiukdima.github.io/cv/static/media/my_photo.b54e055f9c3acbf00a40.jpg",
+    "static/media/bg.png": "https://tarasiukdima.github.io/cv/static/media/bg.8166a767dbb2b73c05d3.png",
+    "index.html": "https://tarasiukdima.github.io/cv/index.html",
+    "main.81f04733.css.map": "https://tarasiukdima.github.io/cv/static/css/main.81f04733.css.map",
+    "main.b43ab542.js.map": "https://tarasiukdima.github.io/cv/static/js/main.b43ab542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f04733.css",
+    "static/js/main.b43ab542.js"
+  ]
+}
